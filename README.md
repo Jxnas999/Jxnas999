@@ -1,8 +1,7 @@
 <h1 align="center">Hi 👋, I'm Jonas</h1>
 <h3 align="center">A passionate Fullstack developer from Germany</h3>
 
-- 🔭 I’m currently working on [a Book/Podcast note project](https://github.com/Jxnas999/BookSite)
-
+<h3 align="center"> Visit my Website: <a href="jonaskoscielny.de">here</a></h3>
 - 🌱 I’m currently learning **Redux**
 
 <h3 align="left">Connect with me:</h3>
